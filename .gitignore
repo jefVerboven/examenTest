@@ -1,0 +1,33 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.env.local
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build output
+dist/
+build/
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Java
+*.class
+
+# Temporary files
+*.tmp
+*.swp
